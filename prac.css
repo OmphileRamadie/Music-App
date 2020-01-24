@@ -1,0 +1,35 @@
+body{
+    background-color:lightgreen;
+}
+
+.search{
+    position: absolute;
+    background-color:darkgreen;
+    width: 350px;
+    height: 45px;
+    left: 120px;
+    top: 300px;
+    border-radius:20px;
+   
+
+}
+
+
+   
+
+.head{
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}
+
+.inpu{
+    position: absolute;
+    left: 10px;
+    top: 12px;
+    font-size: 13px;
+    background-color: darkgreen;
+    border: none;
+    outline: none;
+
+}
